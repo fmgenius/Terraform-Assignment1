@@ -1,5 +1,6 @@
 **How to Run the Code**
-After installing terraform and AWS CLI, Clone my repository into two different directory.
+
+- After installing terraform and AWS CLI, Clone my repository into two different directory.
 
 - Run each region tfvars file in the each directory.
 - Kindly, find the screenshot as evidence of the created outputs.
